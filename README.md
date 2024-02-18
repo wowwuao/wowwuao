@@ -1,4 +1,3 @@
-- 👋 石带知名 five && dinner
-- 🌱 半年实习经验
+- 👋 石带不知名 five 
 - 💞️ 开卷！！！！！
 - 📫 [wow-blog](https://wowwuao.github.io/wow-blog)
